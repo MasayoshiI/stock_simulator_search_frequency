@@ -1,8 +1,8 @@
 ## =======================================================
-## Masayoshi Iwasa (U14652615)
-## FE 459 Spring 2019
-## Assignment 12, Project 01
-## 04/24/2019
+## Masayoshi Iwasa 
+## Boston University '20
+## MAIL: miwasa20@bu.edu
+## DATE: 04/24/2019
 ## ======================================================= 
 
 
