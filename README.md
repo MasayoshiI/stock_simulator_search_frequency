@@ -41,12 +41,17 @@ Google Trends Search Frequency Score CSV File
 
 ### Assumptions
 
-1 You may make any reasonable assumptions, but your must document them clearly. Here are some baseline assumptions that you may make for this assignment without additional documentation:
-2 You may buy fractional shares as needed.
-3 No restrictions on short-selling and no margin requirements.
-4 No taxes.
-5 Trading fees or commissions: make your calculations two ways: once, without trading fees or commissions, and again with EITHER a fixed $10 commission per trade, or else a 0.25% trading fee (i.e., the bid-ask spread)time you buy or sell.
-6 You may NOT assume a time-machine (i.e., you cannot look at the returns and then go back and buy the stocks that will perform well).
+1. You may make any reasonable assumptions, but your must document them clearly. Here are some baseline assumptions that you may make for this assignment without additional documentation:
+
+2. You may buy fractional shares as needed.
+
+3. No restrictions on short-selling and no margin requirements.
+
+4. No taxes.
+
+5. Trading fees or commissions: make your calculations two ways: once, without trading fees or commissions, and again with EITHER a fixed $10 commission per trade, or else a 0.25% trading fee (i.e., the bid-ask spread)time you buy or sell.
+
+6. You may NOT assume a time-machine (i.e., you cannot look at the returns and then go back and buy the stocks that will perform well).
 
 ### Conclusion
 
