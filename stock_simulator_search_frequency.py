@@ -135,7 +135,7 @@ class SearchFrequencyStockSimulator:
 
 # TEST CASE | MAIN FUNC HERE
 if __name__ == "__main__":
-    simulator = SearchFrequencyStockSimulator('./FB_stock.csv', './FB_interests.csv', 100000)
+    simulator = SearchFrequencyStockSimulator('./csv/FB_stock.csv', './csv/FB_interests.csv', 100000)
     print(simulator.get_correlation())
     # simulator.plot_stock_interests()
     # print(simulator.simulate_no_transaction_fee())
